@@ -1,2 +1,2 @@
-# learning-react
-Exactly what it sounds like
+# javascript-app
+pure javascript app project
